@@ -11,7 +11,7 @@ OpenMM ≥ 7.5
 MPIDPlugin (https://github.com/andysim/MPIDOpenMMPlugin)
 
 # Usage
-python examples/mpid_md.py 1ubq mpid 0 1
+python ./mpid_md.py 1ubq mpid 0 1
 
 # Citation
 
